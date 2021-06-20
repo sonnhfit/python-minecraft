@@ -13,7 +13,8 @@ i think it will run the same on ubuntu
 - runserver with  terminal 
 
 ```
-git clone 
+git clone https://github.com/sonnhfit/python-minecraft.git
+cd python-minecraft
 java -jar spigot-1.16.5.jar nogui     
 ```
 
