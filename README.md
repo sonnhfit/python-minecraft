@@ -23,3 +23,10 @@ see [folder plugin ](https://github.com/sonnhfit/python-minecraft/tree/master/pl
 
 ### step 2 
 
+```
+pip install mcpi==1.2.0
+```
+i use 1.2.0 if you using newer version version 
+```
+pip install mcpi
+```
