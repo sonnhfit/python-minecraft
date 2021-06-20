@@ -5,12 +5,13 @@ control minecraft 1.16.5  using python3
 i think it will run the same on ubuntu
 
 ## [Important]If you do not run python with server minecraft 1.16.5+ it's because you haven't added the plugin like me. see folder plugin 
-### step 1 runserver minecraft with java 
-
+### step 1 runserver minecraft with javas
 - install java8
 - clone this project
 - edit config in file if you need 
 - runserver with  terminal 
+
+see [detail document](https://www.spigotmc.org/wiki/buildtools/) for this step if you want to build server by yourseft 
 
 ```
 git clone https://github.com/sonnhfit/python-minecraft.git
