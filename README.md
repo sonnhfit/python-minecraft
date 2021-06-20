@@ -11,7 +11,7 @@ i think it will run the same on ubuntu
 - edit config in file if you need 
 - runserver with  terminal 
 
-see [detail document](https://www.spigotmc.org/wiki/buildtools/) for this step if you want to build server by yourseft 
+see [detail document](https://www.spigotmc.org/wiki/buildtools/) for this step if you want to build server by yourseft. btw Pay attention to copy the files in the plugin folder
 
 ```
 git clone https://github.com/sonnhfit/python-minecraft.git
