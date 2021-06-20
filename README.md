@@ -30,3 +30,9 @@ i use 1.2.0 if you using newer version version
 ```
 pip install mcpi
 ```
+
+
+# step 3 code python for control minecraft 
+see document in [this line](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+```
+```
