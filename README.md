@@ -18,6 +18,7 @@ cd python-minecraft
 java -jar spigot-1.16.5.jar nogui     
 ```
 
+see [folder plugin ](https://github.com/sonnhfit/python-minecraft/tree/master/plugins) because if you use new version you need copy pate plugin folder like me
 
 
 ### step 2 
